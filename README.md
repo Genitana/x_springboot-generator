@@ -1,3 +1,7 @@
+
+借鉴https://github.com/yzcheng90/x_springboot-generator 的项目做了修改，生成适合我自己风格的代码，
+如觉得不错请到原项目start
+
 **项目说明** 
 - x_springboot-generator是x-springboot项目的代码生成器，可在线生成controller、entity、xml、dao、service、html、js、sql代码，减少70%以上的开发任务
 <br> 
@@ -9,8 +13,7 @@
 - Eclipse、IDEA运行Application.java，则可启动项目
 - 项目访问路径：http://localhost:8085
 
-借鉴https://github.com/yzcheng90/x_springboot-generator 的项目做了修改，生成适合我自己风格的代码，如觉得不错
-请到原项目start
+
 
 
 
